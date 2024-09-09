@@ -1,0 +1,2458 @@
+[
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 5849, a co-applicant income of 0, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 4583, a co-applicant income of 1508, a loan amount of 128, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, Yes, has an income of 3000, a co-applicant income of 0, a loan amount of 66, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 2583, a co-applicant income of 2358, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 6000, a co-applicant income of 0, a loan amount of 141, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 5417, a co-applicant income of 4196, a loan amount of 267, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 2333, a co-applicant income of 1516, a loan amount of 95, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 3036, a co-applicant income of 2504, a loan amount of 158, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 4006, a co-applicant income of 1526, a loan amount of 168, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 12841, a co-applicant income of 10968, a loan amount of 349, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3200, a co-applicant income of 700, a loan amount of 70, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, , has an income of 2500, a co-applicant income of 1840, a loan amount of 109, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3073, a co-applicant income of 8106, a loan amount of 200, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 1853, a co-applicant income of 2840, a loan amount of 114, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 1299, a co-applicant income of 1086, a loan amount of 17, a loan amount term of 120, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 4950, a co-applicant income of 0, a loan amount of 125, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 1 dependents, is Not Graduate, No, has an income of 3596, a co-applicant income of 0, a loan amount of 100, a loan amount term of 240, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 3510, a co-applicant income of 0, a loan amount of 76, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 4887, a co-applicant income of 0, a loan amount of 133, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, , has an income of 2600, a co-applicant income of 3500, a loan amount of 115, a loan amount term of , a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 7660, a co-applicant income of 0, a loan amount of 104, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 5955, a co-applicant income of 5625, a loan amount of 315, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 2600, a co-applicant income of 1911, a loan amount of 116, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is , Yes, has 2 dependents, is Not Graduate, No, has an income of 3365, a co-applicant income of 1917, a loan amount of 112, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, , has an income of 3717, a co-applicant income of 2925, a loan amount of 151, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, Yes, has an income of 9560, a co-applicant income of 0, a loan amount of 191, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2799, a co-applicant income of 2253, a loan amount of 122, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 4226, a co-applicant income of 1040, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 1442, a co-applicant income of 0, a loan amount of 35, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 2 dependents, is Graduate, , has an income of 3750, a co-applicant income of 2083, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, , has an income of 4166, a co-applicant income of 3369, a loan amount of 201, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3167, a co-applicant income of 0, a loan amount of 74, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 1 dependents, is Graduate, Yes, has an income of 4692, a co-applicant income of 0, a loan amount of 106, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3500, a co-applicant income of 1667, a loan amount of 114, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 3+ dependents, is Graduate, No, has an income of 12500, a co-applicant income of 3000, a loan amount of 320, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2275, a co-applicant income of 2067, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 1828, a co-applicant income of 1330, a loan amount of 100, a loan amount term of , a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 3667, a co-applicant income of 1459, a loan amount of 144, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 4166, a co-applicant income of 7210, a loan amount of 184, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 3748, a co-applicant income of 1668, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3600, a co-applicant income of 0, a loan amount of 80, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 1800, a co-applicant income of 1213, a loan amount of 47, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2400, a co-applicant income of 0, a loan amount of 75, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3941, a co-applicant income of 2336, a loan amount of 134, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, Yes, has an income of 4695, a co-applicant income of 0, a loan amount of 96, a loan amount term of , a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 3410, a co-applicant income of 0, a loan amount of 88, a loan amount term of , a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 5649, a co-applicant income of 0, a loan amount of 44, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 5821, a co-applicant income of 0, a loan amount of 144, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 2645, a co-applicant income of 3440, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 4000, a co-applicant income of 2275, a loan amount of 144, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Not Graduate, No, has an income of 1928, a co-applicant income of 1644, a loan amount of 100, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 3086, a co-applicant income of 0, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 4230, a co-applicant income of 0, a loan amount of 112, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 4616, a co-applicant income of 0, a loan amount of 134, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, Yes, has 1 dependents, is Graduate, Yes, has an income of 11500, a co-applicant income of 0, a loan amount of 286, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 2708, a co-applicant income of 1167, a loan amount of 97, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2132, a co-applicant income of 1591, a loan amount of 96, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3366, a co-applicant income of 2200, a loan amount of 135, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 8080, a co-applicant income of 2250, a loan amount of 180, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 3357, a co-applicant income of 2859, a loan amount of 144, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2500, a co-applicant income of 3796, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 3029, a co-applicant income of 0, a loan amount of 99, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, Yes, has an income of 2609, a co-applicant income of 3449, a loan amount of 165, a loan amount term of 180, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 4945, a co-applicant income of 0, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 4166, a co-applicant income of 0, a loan amount of 116, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 5726, a co-applicant income of 4595, a loan amount of 258, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 3200, a co-applicant income of 2254, a loan amount of 126, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 10750, a co-applicant income of 0, a loan amount of 312, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, Yes, has an income of 7100, a co-applicant income of 0, a loan amount of 125, a loan amount term of 60, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 4300, a co-applicant income of 0, a loan amount of 136, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3208, a co-applicant income of 3066, a loan amount of 172, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, Yes, has an income of 1875, a co-applicant income of 1875, a loan amount of 97, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3500, a co-applicant income of 0, a loan amount of 81, a loan amount term of 300, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, No, has an income of 4755, a co-applicant income of 0, a loan amount of 95, a loan amount term of , a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, Yes, has an income of 5266, a co-applicant income of 1774, a loan amount of 187, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3750, a co-applicant income of 0, a loan amount of 113, a loan amount term of 480, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3750, a co-applicant income of 4750, a loan amount of 176, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, Yes, has an income of 1000, a co-applicant income of 3022, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 3167, a co-applicant income of 4000, a loan amount of 180, a loan amount term of 300, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, Yes, has an income of 3333, a co-applicant income of 2166, a loan amount of 130, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 3846, a co-applicant income of 0, a loan amount of 111, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, Yes, has an income of 2395, a co-applicant income of 0, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 2 dependents, is Graduate, No, has an income of 1378, a co-applicant income of 1881, a loan amount of 167, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 6000, a co-applicant income of 2250, a loan amount of 265, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 3988, a co-applicant income of 0, a loan amount of 50, a loan amount term of 240, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2366, a co-applicant income of 2531, a loan amount of 136, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 3333, a co-applicant income of 2000, a loan amount of 99, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2500, a co-applicant income of 2118, a loan amount of 104, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 8566, a co-applicant income of 0, a loan amount of 210, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 5695, a co-applicant income of 4167, a loan amount of 175, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2958, a co-applicant income of 2900, a loan amount of 131, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 6250, a co-applicant income of 5654, a loan amount of 188, a loan amount term of 180, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 3273, a co-applicant income of 1820, a loan amount of 81, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 4133, a co-applicant income of 0, a loan amount of 122, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 3620, a co-applicant income of 0, a loan amount of 25, a loan amount term of 120, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, , has an income of 6782, a co-applicant income of 0, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 2484, a co-applicant income of 2302, a loan amount of 137, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 1977, a co-applicant income of 997, a loan amount of 50, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 4188, a co-applicant income of 0, a loan amount of 115, a loan amount term of 180, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 1759, a co-applicant income of 3541, a loan amount of 131, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 4288, a co-applicant income of 3263, a loan amount of 133, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 4843, a co-applicant income of 3806, a loan amount of 151, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has  dependents, is Graduate, No, has an income of 13650, a co-applicant income of 0, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 4652, a co-applicant income of 3583, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, , has  dependents, is Graduate, No, has an income of 3816, a co-applicant income of 754, a loan amount of 160, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 3052, a co-applicant income of 1030, a loan amount of 100, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 11417, a co-applicant income of 1126, a loan amount of 225, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, , has an income of 7333, a co-applicant income of 0, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3800, a co-applicant income of 3600, a loan amount of 216, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, No, has an income of 2071, a co-applicant income of 754, a loan amount of 94, a loan amount term of 480, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 5316, a co-applicant income of 0, a loan amount of 136, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, , has an income of 2929, a co-applicant income of 2333, a loan amount of 139, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 3572, a co-applicant income of 4114, a loan amount of 152, a loan amount term of , a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Graduate, Yes, has an income of 7451, a co-applicant income of 0, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, , has an income of 5050, a co-applicant income of 0, a loan amount of 118, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 14583, a co-applicant income of 0, a loan amount of 185, a loan amount term of 180, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 3167, a co-applicant income of 2283, a loan amount of 154, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 2214, a co-applicant income of 1398, a loan amount of 85, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 5568, a co-applicant income of 2142, a loan amount of 175, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 10408, a co-applicant income of 0, a loan amount of 259, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has  dependents, is Graduate, No, has an income of 5667, a co-applicant income of 2667, a loan amount of 180, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 4166, a co-applicant income of 0, a loan amount of 44, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 2137, a co-applicant income of 8980, a loan amount of 137, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 2957, a co-applicant income of 0, a loan amount of 81, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 4300, a co-applicant income of 2014, a loan amount of 194, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 3692, a co-applicant income of 0, a loan amount of 93, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is , Yes, has 3+ dependents, is Graduate, No, has an income of 23803, a co-applicant income of 0, a loan amount of 370, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3865, a co-applicant income of 1640, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, Yes, has an income of 10513, a co-applicant income of 3850, a loan amount of 160, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 6080, a co-applicant income of 2569, a loan amount of 182, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, Yes, has an income of 20166, a co-applicant income of 0, a loan amount of 650, a loan amount term of 480, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2014, a co-applicant income of 1929, a loan amount of 74, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2718, a co-applicant income of 0, a loan amount of 70, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, Yes, has an income of 3459, a co-applicant income of 0, a loan amount of 25, a loan amount term of 120, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 4895, a co-applicant income of 0, a loan amount of 102, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 4000, a co-applicant income of 7750, a loan amount of 290, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 4583, a co-applicant income of 0, a loan amount of 84, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 3316, a co-applicant income of 3500, a loan amount of 88, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 14999, a co-applicant income of 0, a loan amount of 242, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 4200, a co-applicant income of 1430, a loan amount of 129, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 5042, a co-applicant income of 2083, a loan amount of 185, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 5417, a co-applicant income of 0, a loan amount of 168, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, Yes, has an income of 6950, a co-applicant income of 0, a loan amount of 175, a loan amount term of 180, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2698, a co-applicant income of 2034, a loan amount of 122, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 11757, a co-applicant income of 0, a loan amount of 187, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 2330, a co-applicant income of 4486, a loan amount of 100, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 2 dependents, is Graduate, No, has an income of 14866, a co-applicant income of 0, a loan amount of 70, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 1538, a co-applicant income of 1425, a loan amount of 30, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 10000, a co-applicant income of 1666, a loan amount of 225, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 4860, a co-applicant income of 830, a loan amount of 125, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 6277, a co-applicant income of 0, a loan amount of 118, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, Yes, has an income of 2577, a co-applicant income of 3750, a loan amount of 152, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 9166, a co-applicant income of 0, a loan amount of 244, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 2281, a co-applicant income of 0, a loan amount of 113, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3254, a co-applicant income of 0, a loan amount of 50, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 39999, a co-applicant income of 0, a loan amount of 600, a loan amount term of 180, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 6000, a co-applicant income of 0, a loan amount of 160, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 9538, a co-applicant income of 0, a loan amount of 187, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, , has an income of 2980, a co-applicant income of 2083, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 4583, a co-applicant income of 5625, a loan amount of 255, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 1863, a co-applicant income of 1041, a loan amount of 98, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 7933, a co-applicant income of 0, a loan amount of 275, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 3089, a co-applicant income of 1280, a loan amount of 121, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 4167, a co-applicant income of 1447, a loan amount of 158, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 9323, a co-applicant income of 0, a loan amount of 75, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3707, a co-applicant income of 3166, a loan amount of 182, a loan amount term of , a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 4583, a co-applicant income of 0, a loan amount of 112, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2439, a co-applicant income of 3333, a loan amount of 129, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2237, a co-applicant income of 0, a loan amount of 63, a loan amount term of 480, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 8000, a co-applicant income of 0, a loan amount of 200, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, , has an income of 1820, a co-applicant income of 1769, a loan amount of 95, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is , Yes, has 3+ dependents, is Graduate, No, has an income of 51763, a co-applicant income of 0, a loan amount of 700, a loan amount term of 300, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, No, has an income of 3522, a co-applicant income of 0, a loan amount of 81, a loan amount term of 180, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 5708, a co-applicant income of 5625, a loan amount of 187, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, Yes, has an income of 4344, a co-applicant income of 736, a loan amount of 87, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3497, a co-applicant income of 1964, a loan amount of 116, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 2045, a co-applicant income of 1619, a loan amount of 101, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 5516, a co-applicant income of 11300, a loan amount of 495, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 3750, a co-applicant income of 0, a loan amount of 116, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 2333, a co-applicant income of 1451, a loan amount of 102, a loan amount term of 480, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 6400, a co-applicant income of 7250, a loan amount of 180, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 1916, a co-applicant income of 5063, a loan amount of 67, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 4600, a co-applicant income of 0, a loan amount of 73, a loan amount term of 180, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 33846, a co-applicant income of 0, a loan amount of 260, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 3625, a co-applicant income of 0, a loan amount of 108, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, Yes, has an income of 39147, a co-applicant income of 4750, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, Yes, has an income of 2178, a co-applicant income of 0, a loan amount of 66, a loan amount term of 300, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2383, a co-applicant income of 2138, a loan amount of 58, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is , Yes, has 0 dependents, is Graduate, Yes, has an income of 674, a co-applicant income of 5296, a loan amount of 168, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 9328, a co-applicant income of 0, a loan amount of 188, a loan amount term of 180, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 4885, a co-applicant income of 0, a loan amount of 48, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 12000, a co-applicant income of 0, a loan amount of 164, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 6033, a co-applicant income of 0, a loan amount of 160, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3858, a co-applicant income of 0, a loan amount of 76, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 4191, a co-applicant income of 0, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 3125, a co-applicant income of 2583, a loan amount of 170, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 8333, a co-applicant income of 3750, a loan amount of 187, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Not Graduate, No, has an income of 1907, a co-applicant income of 2365, a loan amount of 120, a loan amount term of , a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 3416, a co-applicant income of 2816, a loan amount of 113, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, Yes, has an income of 11000, a co-applicant income of 0, a loan amount of 83, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 2600, a co-applicant income of 2500, a loan amount of 90, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 2 dependents, is Graduate, No, has an income of 4923, a co-applicant income of 0, a loan amount of 166, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, No, has an income of 3992, a co-applicant income of 0, a loan amount of , a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 3500, a co-applicant income of 1083, a loan amount of 135, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 3917, a co-applicant income of 0, a loan amount of 124, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Not Graduate, No, has an income of 4408, a co-applicant income of 0, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 3244, a co-applicant income of 0, a loan amount of 80, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 3975, a co-applicant income of 2531, a loan amount of 55, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2479, a co-applicant income of 0, a loan amount of 59, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3418, a co-applicant income of 0, a loan amount of 127, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 10000, a co-applicant income of 0, a loan amount of 214, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 3430, a co-applicant income of 1250, a loan amount of 128, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, Yes, has an income of 7787, a co-applicant income of 0, a loan amount of 240, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, Yes, has an income of 5703, a co-applicant income of 0, a loan amount of 130, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3173, a co-applicant income of 3021, a loan amount of 137, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, No, has an income of 3850, a co-applicant income of 983, a loan amount of 100, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 150, a co-applicant income of 1800, a loan amount of 135, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3727, a co-applicant income of 1775, a loan amount of 131, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, , has an income of 5000, a co-applicant income of 0, a loan amount of 72, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, Yes, has 2 dependents, is Graduate, No, has an income of 4283, a co-applicant income of 2383, a loan amount of 127, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2221, a co-applicant income of 0, a loan amount of 60, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 4009, a co-applicant income of 1717, a loan amount of 116, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2971, a co-applicant income of 2791, a loan amount of 144, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 7578, a co-applicant income of 1010, a loan amount of 175, a loan amount term of , a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 6250, a co-applicant income of 0, a loan amount of 128, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3250, a co-applicant income of 0, a loan amount of 170, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has  dependents, is Not Graduate, Yes, has an income of 4735, a co-applicant income of 0, a loan amount of 138, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 6250, a co-applicant income of 1695, a loan amount of 210, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, , has  dependents, is Graduate, No, has an income of 4758, a co-applicant income of 0, a loan amount of 158, a loan amount term of 480, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, Yes, has an income of 6400, a co-applicant income of 0, a loan amount of 200, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 2491, a co-applicant income of 2054, a loan amount of 104, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, , has an income of 3716, a co-applicant income of 0, a loan amount of 42, a loan amount term of 180, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 3189, a co-applicant income of 2598, a loan amount of 120, a loan amount term of , a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 8333, a co-applicant income of 0, a loan amount of 280, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 3155, a co-applicant income of 1779, a loan amount of 140, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 5500, a co-applicant income of 1260, a loan amount of 170, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, , has an income of 5746, a co-applicant income of 0, a loan amount of 255, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, Yes, has an income of 3463, a co-applicant income of 0, a loan amount of 122, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Graduate, No, has an income of 3812, a co-applicant income of 0, a loan amount of 112, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 3315, a co-applicant income of 0, a loan amount of 96, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 5819, a co-applicant income of 5000, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 2510, a co-applicant income of 1983, a loan amount of 140, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2965, a co-applicant income of 5701, a loan amount of 155, a loan amount term of 60, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 6250, a co-applicant income of 1300, a loan amount of 108, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 3406, a co-applicant income of 4417, a loan amount of 123, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, Yes, has an income of 6050, a co-applicant income of 4333, a loan amount of 120, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 9703, a co-applicant income of 0, a loan amount of 112, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 6608, a co-applicant income of 0, a loan amount of 137, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 2882, a co-applicant income of 1843, a loan amount of 123, a loan amount term of 480, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 1809, a co-applicant income of 1868, a loan amount of 90, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 1668, a co-applicant income of 3890, a loan amount of 201, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 2 dependents, is Graduate, No, has an income of 3427, a co-applicant income of 0, a loan amount of 138, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, Yes, has an income of 2583, a co-applicant income of 2167, a loan amount of 104, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 2661, a co-applicant income of 7101, a loan amount of 279, a loan amount term of 180, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, Yes, has an income of 16250, a co-applicant income of 0, a loan amount of 192, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 3+ dependents, is Graduate, No, has an income of 3083, a co-applicant income of 0, a loan amount of 255, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 6045, a co-applicant income of 0, a loan amount of 115, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 5250, a co-applicant income of 0, a loan amount of 94, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 14683, a co-applicant income of 2100, a loan amount of 304, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, No, has an income of 4931, a co-applicant income of 0, a loan amount of 128, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 6083, a co-applicant income of 4250, a loan amount of 330, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2060, a co-applicant income of 2209, a loan amount of 134, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Graduate, No, has an income of 3481, a co-applicant income of 0, a loan amount of 155, a loan amount term of 36, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 7200, a co-applicant income of 0, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, Yes, has an income of 5166, a co-applicant income of 0, a loan amount of 128, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 4095, a co-applicant income of 3447, a loan amount of 151, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 4708, a co-applicant income of 1387, a loan amount of 150, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 4333, a co-applicant income of 1811, a loan amount of 160, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, , has an income of 3418, a co-applicant income of 0, a loan amount of 135, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Graduate, No, has an income of 2876, a co-applicant income of 1560, a loan amount of 90, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 3237, a co-applicant income of 0, a loan amount of 30, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 11146, a co-applicant income of 0, a loan amount of 136, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2833, a co-applicant income of 1857, a loan amount of 126, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2620, a co-applicant income of 2223, a loan amount of 150, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3900, a co-applicant income of 0, a loan amount of 90, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 2750, a co-applicant income of 1842, a loan amount of 115, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3993, a co-applicant income of 3274, a loan amount of 207, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3103, a co-applicant income of 1300, a loan amount of 80, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 14583, a co-applicant income of 0, a loan amount of 436, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Not Graduate, No, has an income of 4100, a co-applicant income of 0, a loan amount of 124, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 1 dependents, is Not Graduate, Yes, has an income of 4053, a co-applicant income of 2426, a loan amount of 158, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3927, a co-applicant income of 800, a loan amount of 112, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 2301, a co-applicant income of 985.7999878, a loan amount of 78, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 1811, a co-applicant income of 1666, a loan amount of 54, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 20667, a co-applicant income of 0, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3158, a co-applicant income of 3053, a loan amount of 89, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, Yes, has an income of 2600, a co-applicant income of 1717, a loan amount of 99, a loan amount term of 300, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3704, a co-applicant income of 2000, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 4124, a co-applicant income of 0, a loan amount of 115, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 9508, a co-applicant income of 0, a loan amount of 187, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3075, a co-applicant income of 2416, a loan amount of 139, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 4400, a co-applicant income of 0, a loan amount of 127, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3153, a co-applicant income of 1560, a loan amount of 134, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has  dependents, is Graduate, No, has an income of 5417, a co-applicant income of 0, a loan amount of 143, a loan amount term of 480, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2383, a co-applicant income of 3334, a loan amount of 172, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, , has an income of 4416, a co-applicant income of 1250, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 6875, a co-applicant income of 0, a loan amount of 200, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 1 dependents, is Graduate, No, has an income of 4666, a co-applicant income of 0, a loan amount of 135, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 5000, a co-applicant income of 2541, a loan amount of 151, a loan amount term of 480, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 2014, a co-applicant income of 2925, a loan amount of 113, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 1800, a co-applicant income of 2934, a loan amount of 93, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has  dependents, is Not Graduate, No, has an income of 2875, a co-applicant income of 1750, a loan amount of 105, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 5000, a co-applicant income of 0, a loan amount of 132, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 1625, a co-applicant income of 1803, a loan amount of 96, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 4000, a co-applicant income of 2500, a loan amount of 140, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 2000, a co-applicant income of 0, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 3762, a co-applicant income of 1666, a loan amount of 135, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 2400, a co-applicant income of 1863, a loan amount of 104, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 20233, a co-applicant income of 0, a loan amount of 480, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 7667, a co-applicant income of 0, a loan amount of 185, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 2917, a co-applicant income of 0, a loan amount of 84, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 2927, a co-applicant income of 2405, a loan amount of 111, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 2507, a co-applicant income of 0, a loan amount of 56, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 5746, a co-applicant income of 0, a loan amount of 144, a loan amount term of 84, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is , Yes, has 0 dependents, is Graduate, No, has an income of 2473, a co-applicant income of 1843, a loan amount of 159, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 3399, a co-applicant income of 1640, a loan amount of 111, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3717, a co-applicant income of 0, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2058, a co-applicant income of 2134, a loan amount of 88, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Graduate, No, has an income of 3541, a co-applicant income of 0, a loan amount of 112, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, Yes, has an income of 10000, a co-applicant income of 0, a loan amount of 155, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2400, a co-applicant income of 2167, a loan amount of 115, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 4342, a co-applicant income of 189, a loan amount of 124, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 3601, a co-applicant income of 1590, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 3166, a co-applicant income of 2985, a loan amount of 132, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 15000, a co-applicant income of 0, a loan amount of 300, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, Yes, has an income of 8666, a co-applicant income of 4983, a loan amount of 376, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 4917, a co-applicant income of 0, a loan amount of 130, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, Yes, has an income of 5818, a co-applicant income of 2160, a loan amount of 184, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 4333, a co-applicant income of 2451, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 2500, a co-applicant income of 0, a loan amount of 67, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 1 dependents, is Graduate, No, has an income of 4384, a co-applicant income of 1793, a loan amount of 117, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2935, a co-applicant income of 0, a loan amount of 98, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has  dependents, is Graduate, No, has an income of 2833, a co-applicant income of 0, a loan amount of 71, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, , has an income of 63337, a co-applicant income of 0, a loan amount of 490, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is , Yes, has 1 dependents, is Graduate, Yes, has an income of 9833, a co-applicant income of 1833, a loan amount of 182, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has  dependents, is Graduate, Yes, has an income of 5503, a co-applicant income of 4490, a loan amount of 70, a loan amount term of , a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, , has an income of 5250, a co-applicant income of 688, a loan amount of 160, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 2500, a co-applicant income of 4600, a loan amount of 176, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 3+ dependents, is Not Graduate, No, has an income of 1830, a co-applicant income of 0, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 4160, a co-applicant income of 0, a loan amount of 71, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, No, has an income of 2647, a co-applicant income of 1587, a loan amount of 173, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 2378, a co-applicant income of 0, a loan amount of 46, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 4554, a co-applicant income of 1229, a loan amount of 158, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, No, has an income of 3173, a co-applicant income of 0, a loan amount of 74, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, , has an income of 2583, a co-applicant income of 2330, a loan amount of 125, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2499, a co-applicant income of 2458, a loan amount of 160, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has  dependents, is Not Graduate, No, has an income of 3523, a co-applicant income of 3230, a loan amount of 152, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 3083, a co-applicant income of 2168, a loan amount of 126, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 6333, a co-applicant income of 4583, a loan amount of 259, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2625, a co-applicant income of 6250, a loan amount of 187, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 9083, a co-applicant income of 0, a loan amount of 228, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 8750, a co-applicant income of 4167, a loan amount of 308, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 2666, a co-applicant income of 2083, a loan amount of 95, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, Yes, has an income of 5500, a co-applicant income of 0, a loan amount of 105, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 2423, a co-applicant income of 505, a loan amount of 130, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has  dependents, is Graduate, No, has an income of 3813, a co-applicant income of 0, a loan amount of 116, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 8333, a co-applicant income of 3167, a loan amount of 165, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 3875, a co-applicant income of 0, a loan amount of 67, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 3000, a co-applicant income of 1666, a loan amount of 100, a loan amount term of 480, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 5167, a co-applicant income of 3167, a loan amount of 200, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Graduate, No, has an income of 4723, a co-applicant income of 0, a loan amount of 81, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 5000, a co-applicant income of 3667, a loan amount of 236, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 4750, a co-applicant income of 2333, a loan amount of 130, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3013, a co-applicant income of 3033, a loan amount of 95, a loan amount term of 300, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, Yes, has an income of 6822, a co-applicant income of 0, a loan amount of 141, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 6216, a co-applicant income of 0, a loan amount of 133, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2500, a co-applicant income of 0, a loan amount of 96, a loan amount term of 480, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 5124, a co-applicant income of 0, a loan amount of 124, a loan amount term of , a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 6325, a co-applicant income of 0, a loan amount of 175, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 19730, a co-applicant income of 5266, a loan amount of 570, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, Yes, has an income of 15759, a co-applicant income of 0, a loan amount of 55, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 5185, a co-applicant income of 0, a loan amount of 155, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 9323, a co-applicant income of 7873, a loan amount of 380, a loan amount term of 300, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 1 dependents, is Graduate, No, has an income of 3062, a co-applicant income of 1987, a loan amount of 111, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, , has an income of 2764, a co-applicant income of 1459, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 4817, a co-applicant income of 923, a loan amount of 120, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 8750, a co-applicant income of 4996, a loan amount of 130, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 4310, a co-applicant income of 0, a loan amount of 130, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3069, a co-applicant income of 0, a loan amount of 71, a loan amount term of 480, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 5391, a co-applicant income of 0, a loan amount of 130, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, , has an income of 3333, a co-applicant income of 2500, a loan amount of 128, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 5941, a co-applicant income of 4232, a loan amount of 296, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 6000, a co-applicant income of 0, a loan amount of 156, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, Yes, has an income of 7167, a co-applicant income of 0, a loan amount of 128, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 4566, a co-applicant income of 0, a loan amount of 100, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 1 dependents, is Graduate, , has an income of 3667, a co-applicant income of 0, a loan amount of 113, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 2346, a co-applicant income of 1600, a loan amount of 132, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 3010, a co-applicant income of 3136, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2333, a co-applicant income of 2417, a loan amount of 136, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 5488, a co-applicant income of 0, a loan amount of 125, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 3+ dependents, is Graduate, No, has an income of 9167, a co-applicant income of 0, a loan amount of 185, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 9504, a co-applicant income of 0, a loan amount of 275, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2583, a co-applicant income of 2115, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 1993, a co-applicant income of 1625, a loan amount of 113, a loan amount term of 180, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3100, a co-applicant income of 1400, a loan amount of 113, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3276, a co-applicant income of 484, a loan amount of 135, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 3180, a co-applicant income of 0, a loan amount of 71, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3033, a co-applicant income of 1459, a loan amount of 95, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 3902, a co-applicant income of 1666, a loan amount of 109, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 1500, a co-applicant income of 1800, a loan amount of 103, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 2889, a co-applicant income of 0, a loan amount of 45, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 2755, a co-applicant income of 0, a loan amount of 65, a loan amount term of 300, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2500, a co-applicant income of 20000, a loan amount of 103, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Not Graduate, No, has an income of 1963, a co-applicant income of 0, a loan amount of 53, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, Yes, has an income of 7441, a co-applicant income of 0, a loan amount of 194, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 4547, a co-applicant income of 0, a loan amount of 115, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 2167, a co-applicant income of 2400, a loan amount of 115, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Not Graduate, No, has an income of 2213, a co-applicant income of 0, a loan amount of 66, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 8300, a co-applicant income of 0, a loan amount of 152, a loan amount term of 300, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 81000, a co-applicant income of 0, a loan amount of 360, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Not Graduate, Yes, has an income of 3867, a co-applicant income of 0, a loan amount of 62, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, , has an income of 6256, a co-applicant income of 0, a loan amount of 160, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 6096, a co-applicant income of 0, a loan amount of 218, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 2253, a co-applicant income of 2033, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Not Graduate, No, has an income of 2149, a co-applicant income of 3237, a loan amount of 178, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 2995, a co-applicant income of 0, a loan amount of 60, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Graduate, No, has an income of 2600, a co-applicant income of 0, a loan amount of 160, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 1600, a co-applicant income of 20000, a loan amount of 239, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 1025, a co-applicant income of 2773, a loan amount of 112, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3246, a co-applicant income of 1417, a loan amount of 138, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 5829, a co-applicant income of 0, a loan amount of 138, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Not Graduate, No, has an income of 2720, a co-applicant income of 0, a loan amount of 80, a loan amount term of , a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 1820, a co-applicant income of 1719, a loan amount of 100, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 7250, a co-applicant income of 1667, a loan amount of 110, a loan amount term of , a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 14880, a co-applicant income of 0, a loan amount of 96, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2666, a co-applicant income of 4300, a loan amount of 121, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Not Graduate, No, has an income of 4606, a co-applicant income of 0, a loan amount of 81, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 5935, a co-applicant income of 0, a loan amount of 133, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2920, a co-applicant income of 16.12000084, a loan amount of 87, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 2717, a co-applicant income of 0, a loan amount of 60, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Graduate, Yes, has an income of 8624, a co-applicant income of 0, a loan amount of 150, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 6500, a co-applicant income of 0, a loan amount of 105, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, , has an income of 12876, a co-applicant income of 0, a loan amount of 405, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2425, a co-applicant income of 2340, a loan amount of 143, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3750, a co-applicant income of 0, a loan amount of 100, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, , has  dependents, is Graduate, No, has an income of 10047, a co-applicant income of 0, a loan amount of , a loan amount term of 240, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 1926, a co-applicant income of 1851, a loan amount of 50, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2213, a co-applicant income of 1125, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, Yes, has an income of 10416, a co-applicant income of 0, a loan amount of 187, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Not Graduate, Yes, has an income of 7142, a co-applicant income of 0, a loan amount of 138, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3660, a co-applicant income of 5064, a loan amount of 187, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 7901, a co-applicant income of 1833, a loan amount of 180, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 3+ dependents, is Not Graduate, No, has an income of 4707, a co-applicant income of 1993, a loan amount of 148, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 1 dependents, is Graduate, No, has an income of 37719, a co-applicant income of 0, a loan amount of 152, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 7333, a co-applicant income of 8333, a loan amount of 175, a loan amount term of 300, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, Yes, has an income of 3466, a co-applicant income of 1210, a loan amount of 130, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 4652, a co-applicant income of 0, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, , has an income of 3539, a co-applicant income of 1376, a loan amount of 55, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3340, a co-applicant income of 1710, a loan amount of 150, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 1 dependents, is Not Graduate, Yes, has an income of 2769, a co-applicant income of 1542, a loan amount of 190, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 2309, a co-applicant income of 1255, a loan amount of 125, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 1958, a co-applicant income of 1456, a loan amount of 60, a loan amount term of 300, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3948, a co-applicant income of 1733, a loan amount of 149, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2483, a co-applicant income of 2466, a loan amount of 90, a loan amount term of 180, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, Yes, has an income of 7085, a co-applicant income of 0, a loan amount of 84, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3859, a co-applicant income of 0, a loan amount of 96, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 4301, a co-applicant income of 0, a loan amount of 118, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3708, a co-applicant income of 2569, a loan amount of 173, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 2 dependents, is Graduate, No, has an income of 4354, a co-applicant income of 0, a loan amount of 136, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 8334, a co-applicant income of 0, a loan amount of 160, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is , Yes, has 0 dependents, is Graduate, Yes, has an income of 2083, a co-applicant income of 4083, a loan amount of 160, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 7740, a co-applicant income of 0, a loan amount of 128, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3015, a co-applicant income of 2188, a loan amount of 153, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Not Graduate, , has an income of 5191, a co-applicant income of 0, a loan amount of 132, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 4166, a co-applicant income of 0, a loan amount of 98, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 6000, a co-applicant income of 0, a loan amount of 140, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, No, has an income of 2947, a co-applicant income of 1664, a loan amount of 70, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is , Yes, has 0 dependents, is Graduate, No, has an income of 16692, a co-applicant income of 0, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 2 dependents, is Not Graduate, , has an income of 210, a co-applicant income of 2917, a loan amount of 98, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 4333, a co-applicant income of 2451, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, Yes, has an income of 3450, a co-applicant income of 2079, a loan amount of 162, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 2653, a co-applicant income of 1500, a loan amount of 113, a loan amount term of 180, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 4691, a co-applicant income of 0, a loan amount of 100, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, Yes, has an income of 2500, a co-applicant income of 0, a loan amount of 93, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 2 dependents, is Graduate, No, has an income of 5532, a co-applicant income of 4648, a loan amount of 162, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 16525, a co-applicant income of 1014, a loan amount of 150, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 6700, a co-applicant income of 1750, a loan amount of 230, a loan amount term of 300, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is , Yes, has 2 dependents, is Graduate, No, has an income of 2873, a co-applicant income of 1872, a loan amount of 132, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, Yes, has an income of 16667, a co-applicant income of 2250, a loan amount of 86, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 2947, a co-applicant income of 1603, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Not Graduate, No, has an income of 4350, a co-applicant income of 0, a loan amount of 154, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Not Graduate, No, has an income of 3095, a co-applicant income of 0, a loan amount of 113, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2083, a co-applicant income of 3150, a loan amount of 128, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 10833, a co-applicant income of 0, a loan amount of 234, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 8333, a co-applicant income of 0, a loan amount of 246, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 1958, a co-applicant income of 2436, a loan amount of 131, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 2 dependents, is Graduate, No, has an income of 3547, a co-applicant income of 0, a loan amount of 80, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 18333, a co-applicant income of 0, a loan amount of 500, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 4583, a co-applicant income of 2083, a loan amount of 160, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2435, a co-applicant income of 0, a loan amount of 75, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 2699, a co-applicant income of 2785, a loan amount of 96, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 5333, a co-applicant income of 1131, a loan amount of 186, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 3691, a co-applicant income of 0, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Not Graduate, Yes, has an income of 17263, a co-applicant income of 0, a loan amount of 225, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3597, a co-applicant income of 2157, a loan amount of 119, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, Yes, has 1 dependents, is Graduate, No, has an income of 3326, a co-applicant income of 913, a loan amount of 105, a loan amount term of 84, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 2600, a co-applicant income of 1700, a loan amount of 107, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 4625, a co-applicant income of 2857, a loan amount of 111, a loan amount term of 12, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, Yes, has an income of 2895, a co-applicant income of 0, a loan amount of 95, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 6283, a co-applicant income of 4416, a loan amount of 209, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 645, a co-applicant income of 3683, a loan amount of 113, a loan amount term of 480, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 3159, a co-applicant income of 0, a loan amount of 100, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 4865, a co-applicant income of 5624, a loan amount of 208, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 4050, a co-applicant income of 5302, a loan amount of 138, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 3814, a co-applicant income of 1483, a loan amount of 124, a loan amount term of 300, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3510, a co-applicant income of 4416, a loan amount of 243, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 20833, a co-applicant income of 6667, a loan amount of 480, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is , No, has 0 dependents, is Graduate, No, has an income of 3583, a co-applicant income of 0, a loan amount of 96, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, Yes, has an income of 2479, a co-applicant income of 3013, a loan amount of 188, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Graduate, No, has an income of 13262, a co-applicant income of 0, a loan amount of 40, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 3598, a co-applicant income of 1287, a loan amount of 100, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 6065, a co-applicant income of 2004, a loan amount of 250, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3283, a co-applicant income of 2035, a loan amount of 148, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2130, a co-applicant income of 6666, a loan amount of 70, a loan amount term of 180, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 5815, a co-applicant income of 3666, a loan amount of 311, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 3466, a co-applicant income of 3428, a loan amount of 150, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 2 dependents, is Graduate, No, has an income of 2031, a co-applicant income of 1632, a loan amount of 113, a loan amount term of 480, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has  dependents, is Not Graduate, No, has an income of 3074, a co-applicant income of 1800, a loan amount of 123, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 4683, a co-applicant income of 1915, a loan amount of 185, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Not Graduate, No, has an income of 3400, a co-applicant income of 0, a loan amount of 95, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 2192, a co-applicant income of 1742, a loan amount of 45, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2500, a co-applicant income of 0, a loan amount of 55, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, Yes, has an income of 5677, a co-applicant income of 1424, a loan amount of 100, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 7948, a co-applicant income of 7166, a loan amount of 480, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 4680, a co-applicant income of 2087, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 17500, a co-applicant income of 0, a loan amount of 400, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3775, a co-applicant income of 0, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 5285, a co-applicant income of 1430, a loan amount of 161, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 1 dependents, is Not Graduate, No, has an income of 2679, a co-applicant income of 1302, a loan amount of 94, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 6783, a co-applicant income of 0, a loan amount of 130, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 1025, a co-applicant income of 5500, a loan amount of 216, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 4281, a co-applicant income of 0, a loan amount of 100, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 2 dependents, is Graduate, No, has an income of 3588, a co-applicant income of 0, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 1 dependents, is Graduate, No, has an income of 11250, a co-applicant income of 0, a loan amount of 196, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Not Graduate, Yes, has an income of 18165, a co-applicant income of 0, a loan amount of 125, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, , has an income of 2550, a co-applicant income of 2042, a loan amount of 126, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 6133, a co-applicant income of 3906, a loan amount of 324, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 2 dependents, is Graduate, No, has an income of 3617, a co-applicant income of 0, a loan amount of 107, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 2917, a co-applicant income of 536, a loan amount of 66, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 6417, a co-applicant income of 0, a loan amount of 157, a loan amount term of 180, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 1 dependents, is Graduate, No, has an income of 4608, a co-applicant income of 2845, a loan amount of 140, a loan amount term of 180, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 2138, a co-applicant income of 0, a loan amount of 99, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 1 dependents, is Graduate, , has an income of 3652, a co-applicant income of 0, a loan amount of 95, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 2239, a co-applicant income of 2524, a loan amount of 128, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Not Graduate, No, has an income of 3017, a co-applicant income of 663, a loan amount of 102, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2768, a co-applicant income of 1950, a loan amount of 155, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 3358, a co-applicant income of 0, a loan amount of 80, a loan amount term of 36, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 2526, a co-applicant income of 1783, a loan amount of 145, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 5000, a co-applicant income of 0, a loan amount of 103, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2785, a co-applicant income of 2016, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 6633, a co-applicant income of 0, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Not Graduate, No, has an income of 2492, a co-applicant income of 2375, a loan amount of , a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 3333, a co-applicant income of 3250, a loan amount of 158, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 2454, a co-applicant income of 2333, a loan amount of 181, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3593, a co-applicant income of 4266, a loan amount of 132, a loan amount term of 180, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 5468, a co-applicant income of 1032, a loan amount of 26, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 2667, a co-applicant income of 1625, a loan amount of 84, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, Yes, has an income of 10139, a co-applicant income of 0, a loan amount of 260, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3887, a co-applicant income of 2669, a loan amount of 162, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 4180, a co-applicant income of 2306, a loan amount of 182, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 3675, a co-applicant income of 242, a loan amount of 108, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 1 dependents, is Graduate, Yes, has an income of 19484, a co-applicant income of 0, a loan amount of 600, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 5923, a co-applicant income of 2054, a loan amount of 211, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, Yes, has an income of 5800, a co-applicant income of 0, a loan amount of 132, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 8799, a co-applicant income of 0, a loan amount of 258, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 4467, a co-applicant income of 0, a loan amount of 120, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3333, a co-applicant income of 0, a loan amount of 70, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 3400, a co-applicant income of 2500, a loan amount of 123, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 2378, a co-applicant income of 0, a loan amount of 9, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3166, a co-applicant income of 2064, a loan amount of 104, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 3417, a co-applicant income of 1750, a loan amount of 186, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has  dependents, is Graduate, No, has an income of 5116, a co-applicant income of 1451, a loan amount of 165, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 16666, a co-applicant income of 0, a loan amount of 275, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 6125, a co-applicant income of 1625, a loan amount of 187, a loan amount term of 480, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 6406, a co-applicant income of 0, a loan amount of 150, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 3159, a co-applicant income of 461, a loan amount of 108, a loan amount term of 84, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is , Yes, has 0 dependents, is Graduate, No, has an income of 3087, a co-applicant income of 2210, a loan amount of 136, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3229, a co-applicant income of 2739, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 1782, a co-applicant income of 2232, a loan amount of 107, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, , has an income of 3182, a co-applicant income of 2917, a loan amount of 161, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 6540, a co-applicant income of 0, a loan amount of 205, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 1836, a co-applicant income of 33837, a loan amount of 90, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Female, Yes, has 0 dependents, is Graduate, No, has an income of 3166, a co-applicant income of 0, a loan amount of 36, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 1880, a co-applicant income of 0, a loan amount of 61, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 2787, a co-applicant income of 1917, a loan amount of 146, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 4283, a co-applicant income of 3000, a loan amount of 172, a loan amount term of 84, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 2297, a co-applicant income of 1522, a loan amount of 104, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Not Graduate, No, has an income of 2165, a co-applicant income of 0, a loan amount of 70, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is , No, has 0 dependents, is Graduate, No, has an income of 4750, a co-applicant income of 0, a loan amount of 94, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 2726, a co-applicant income of 0, a loan amount of 106, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3000, a co-applicant income of 3416, a loan amount of 56, a loan amount term of 180, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, Yes, has an income of 6000, a co-applicant income of 0, a loan amount of 205, a loan amount term of 240, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is , No, has 3+ dependents, is Graduate, Yes, has an income of 9357, a co-applicant income of 0, a loan amount of 292, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3859, a co-applicant income of 3300, a loan amount of 142, a loan amount term of 180, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, Yes, has an income of 16120, a co-applicant income of 0, a loan amount of 260, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Not Graduate, No, has an income of 3833, a co-applicant income of 0, a loan amount of 110, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, Yes, has an income of 6383, a co-applicant income of 1000, a loan amount of 187, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, No, has  dependents, is Graduate, No, has an income of 2987, a co-applicant income of 0, a loan amount of 88, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, Yes, has an income of 9963, a co-applicant income of 0, a loan amount of 180, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 5780, a co-applicant income of 0, a loan amount of 192, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 3+ dependents, is Graduate, , has an income of 416, a co-applicant income of 41667, a loan amount of 350, a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, , has an income of 2894, a co-applicant income of 2792, a loan amount of 155, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 5703, a co-applicant income of 0, a loan amount of 128, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, No, has 0 dependents, is Graduate, No, has an income of 3676, a co-applicant income of 4301, a loan amount of 172, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, Yes, has 1 dependents, is Graduate, No, has an income of 12000, a co-applicant income of 0, a loan amount of 496, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Not Graduate, No, has an income of 2400, a co-applicant income of 3800, a loan amount of , a loan amount term of 180, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Rejected"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 3400, a co-applicant income of 2500, a loan amount of 173, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Not Graduate, No, has an income of 3987, a co-applicant income of 1411, a loan amount of 157, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 0 dependents, is Graduate, No, has an income of 3232, a co-applicant income of 1950, a loan amount of 108, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, No, has an income of 2900, a co-applicant income of 0, a loan amount of 71, a loan amount term of 360, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 3+ dependents, is Graduate, No, has an income of 4106, a co-applicant income of 0, a loan amount of 40, a loan amount term of 180, a Suboptimal credit history, and lives in a Rural area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 1 dependents, is Graduate, No, has an income of 8072, a co-applicant income of 240, a loan amount of 253, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Male, Yes, has 2 dependents, is Graduate, No, has an income of 7583, a co-applicant income of 0, a loan amount of 187, a loan amount term of 360, a Suboptimal credit history, and lives in a Urban area, will their loan be approved?",
+        "answer": "Approved"
+    },
+    {
+        "question": "If a person is Female, No, has 0 dependents, is Graduate, Yes, has an income of 4583, a co-applicant income of 0, a loan amount of 133, a loan amount term of 360, a Suboptimal credit history, and lives in a Semiurban area, will their loan be approved?",
+        "answer": "Rejected"
+    }
+]
